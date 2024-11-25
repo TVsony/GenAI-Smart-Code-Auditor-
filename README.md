@@ -97,22 +97,15 @@ Auther : Bhimrao Pawar
 
 Email : bhimrao.pawar.07@gmail.com
 
-GitHub Link : https://github.com/TVsony/GenAI-Smart-Code-Auditor-/edit/main/README.md
+![alt text](image.png)
 
-<img width="952" alt="image" src="https://github.com/user-attachments/assets/3e9c13b2-5a19-4917-8e7e-8bcd667f2e00">
+![alt text](image-1.png)
 
-<img width="926" alt="image-2" src="https://github.com/user-attachments/assets/d5b6889a-66f1-4fa1-bc51-df3f4e1839c1">
-
+![alt text](image-2.png)
 
 # OutPut 
 
-<img width="607" alt="image-3" src="https://github.com/user-attachments/assets/0d92aef8-0fcf-489a-be2a-f7930d411861">
+![alt text](image-3.png)
 
-<img width="644" alt="image-4" src="https://github.com/user-attachments/assets/ebd2f382-77bf-4a4e-8caf-41c104c58396">
-
-
-
-
-
-
+![alt text](image-4.png)
 
